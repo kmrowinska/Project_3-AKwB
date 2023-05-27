@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion/akwb3/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+stdio.h
+-
+sstream
+-
+iterator
+-
+cstdlib
+-
+algorithm
+-
+
